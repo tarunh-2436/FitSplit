@@ -5,8 +5,8 @@ FitSplit is a smart gym attendance and personalized workout recommendation syste
 <div align="center">
   <img src="https://img.shields.io/badge/Platform-Arduino-blue" />
   <img src="https://img.shields.io/badge/Machine%20Learning-KMeans-yellow" />
-  <img src="https://img.shields.io/badge/Language-Python%20%7C%20C++-critical" />
-  <img src="https://img.shields.io/badge/Hardware-RFID/NFC-orange" />
+  <img src="https://img.shields.io/badge/Language-Python%20%7C%20JavaScript-critical" />
+  <img src="https://img.shields.io/badge/Hardware-RFID-orange" />
 </div>
 
 ---
